@@ -120,15 +120,13 @@ $ rails s
 
 - LinkedIn: [David Ger](https://linkedin.com/in/david-ger-426b4576)
 
-- Twitter: [David Ger](https://twitter.com/ger_abol)
 
 👤 **Daniel Kitheka**
 
 - Github: [@kithekadk](https://github.com/kithekadk)
 
-- LinkedIn: []()
+- LinkedIn: [Daniel Kakinyi](https://www.linkedin.com/in/daniel-kakinyi-70a8b6222/)
 
-- Twitter: []()
 
 ## 🤝 Contributing
 
