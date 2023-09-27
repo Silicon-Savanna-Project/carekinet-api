@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  mount Motor::Admin => '/motor_admin'
   get 'pages/home'
   get 'pages/restricted'
   devise_for :users
