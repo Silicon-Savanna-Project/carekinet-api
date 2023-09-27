@@ -81,6 +81,4 @@ test:
 #
 production:
   <<: *default
-  database: carekinet_production
-  username: carekinet
-  password: <%= ENV["CAREKINET_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
